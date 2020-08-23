@@ -4,6 +4,8 @@ Install `poetry`: https://python-poetry.org/docs/#installation
 
 Clone this repo: `git clone https://github.com/WouldYouKindly/poetry-with-scripts-example.git`
 
+`cd poetry-with-scripts-example/`
+
 Run `poetry build`
 
 Create a new virtualenv: `python3 -m venv myvenv`
